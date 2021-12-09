@@ -1,0 +1,40 @@
+com/project/travel/converter/RoomEntityToReservableRoomResponseConverter.java
+ com.project.travel.converter.RoomEntityToReservableRoomResponseConverter
+com/project/travel/rest/ResourceConstants.java
+ com.project.travel.rest.ResourceConstants
+com/project/travel/model/Links.java
+ com.project.travel.model.Links
+com/project/travel/converter/RoomReservationRequestToRoomReservationEntityConverter.java
+ com.project.travel.converter.RoomReservationRequestToRoomReservationEntityConverter
+com/project/travel/config/ApiConfig.java
+ com.project.travel.config.ApiConfig
+com/project/travel/config/DatabaseConfig.java
+ com.project.travel.config.DatabaseConfig
+com/project/travel/FlightAndHotelReservationSystemApplication.java
+ com.project.travel.FlightAndHotelReservationSystemApplication
+com/project/travel/repository/RoomReservationRepository.java
+ com.project.travel.repository.RoomReservationRepository
+com/project/travel/model/response/RoomReservationResponse.java
+ com.project.travel.model.response.RoomReservationResponse
+com/project/travel/model/Self.java
+ com.project.travel.model.Self
+com/project/travel/repository/PageableRoomRepository.java
+ com.project.travel.repository.PageableRoomRepository
+com/project/travel/model/response/ReservableRoomResponse.java
+ com.project.travel.model.response.ReservableRoomResponse
+com/project/travel/model/request/RoomReservationRequest.java
+ com.project.travel.model.request.RoomReservationRequest
+com/project/travel/config/ConversionConfig.java
+ com.project.travel.config.ConversionConfig
+com/project/travel/entity/RoomEntity.java
+ com.project.travel.entity.RoomEntity
+com/project/travel/entity/RoomReservationEntity.java
+ com.project.travel.entity.RoomReservationEntity
+com/project/travel/converter/RoomReservationEntityToRoomReservationResponseConverter.java
+ com.project.travel.converter.RoomReservationEntityToRoomReservationResponseConverter
+com/project/travel/repository/RoomRepository.java
+ com.project.travel.repository.RoomRepository
+com/project/travel/H2Bootstrap.java
+ com.project.travel.H2Bootstrap
+com/project/travel/rest/RoomReservationResource.java
+ com.project.travel.rest.RoomReservationResource
